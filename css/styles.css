@@ -9,3 +9,7 @@ h1 {
     font-size: 24px;
     font-weight: bolder;
 }
+
+table {
+    background-color: brown;
+}
